@@ -4,7 +4,7 @@ from shutil import rmtree
 import subprocess
 
 """ initialize variables """
-problem_sizes = [2000, 4000, 60000, 8000, 10000]
+problem_sizes = [2000, 4000, 6000, 8000, 10000]
 iterations = 3
 # problem_sizes = [20, 30, 40, 50]
 resultFolder = "result"
