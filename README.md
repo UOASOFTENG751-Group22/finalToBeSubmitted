@@ -30,7 +30,9 @@ This project aims to implement a circular blocking deque to replace the original
 
 ## How to run 
 
-To be override. @Peter
+To run the project:  
+First run the run.py script under the Linux environment(linux supports python automatically) using command "python3 run.py". Then the result folder will be regenerated. Note that the script will take several hours to run. So, be patient.  
+To plot the result, run the plotting.py under the Linux environment supose you have installed NumPy, matplotlib and pandas. Using command "python3 plotting.py". Then the plot folder will be regenerated and you will get the plot.svg under this folder.  
 
 ## Note
 plotting.py depends on NumPy, matplotlib and pandas. So if you want to run this script to get the plotting result. Please make sure these dependencies have been installed.
