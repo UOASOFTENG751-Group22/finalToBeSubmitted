@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import glob
 
-problem_sizes = [2000, 4000, 60000, 8000, 10000]
+problem_sizes = [2000, 4000, 6000, 8000, 10000]
 data_source_path = './result/'
 plot_folder = './plot'
 
